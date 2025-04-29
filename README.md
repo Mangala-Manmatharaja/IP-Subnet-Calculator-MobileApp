@@ -40,6 +40,8 @@ cd IP-Subnet-Calculator-MobileApp
 flutter pub get
 flutter run
 
+---
+
 ## 📄 License
 
 MIT License — feel free to use, modify, and share with credit.
