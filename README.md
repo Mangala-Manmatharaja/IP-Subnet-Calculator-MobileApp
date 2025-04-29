@@ -42,13 +42,13 @@ flutter run
 
 ---
 
-## 📄 License
+### 📄 License
 
 MIT License — feel free to use, modify, and share with credit.
 
 ---
 
-## ✍️ Author
+### ✍️ Author
 
 - **Mangala-Manmatharaja**  
-  [GitHub Profile](https://github.com/Mangala-Manmatharaja)
+ (https://github.com/Mangala-Manmatharaja)
