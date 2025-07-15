@@ -1,6 +1,6 @@
 # 📱 IP Subnet Calculator (Flutter)
 
-A sleek and modern **IP Subnet Calculator** built using **Flutter**. This mobile app allows users to enter an IPv4 address and CIDR notation to instantly calculate detailed subnetting information.
+A sleek and modern **IP Subnet Calculator** b using **Flutter**. This mobile app allows users to enter an IPv4 address and CIDR notation to instantly calculate detailed subnetting information.
 
 Ideal for network engineers, students, and anyone learning about IP networking and subnetting!
 
